@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52631f2f-de19-483b-adbd-5f2126e45113" name="Changes" comment="commit" />
+    <list default="true" id="52631f2f-de19-483b-adbd-5f2126e45113" name="Changes" comment="add &#10;laboratory work" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,12 +65,30 @@
       <option name="project" value="LOCAL" />
       <updated>1772353035268</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add class work">
+      <option name="closed" value="true" />
+      <created>1772353461947</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1772353461947</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add &#10;laboratory work">
+      <option name="closed" value="true" />
+      <created>1772353622890</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1772353622890</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="main file" />
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="add class work" />
+    <MESSAGE value="add &#10;laboratory work" />
+    <option name="LAST_COMMIT_MESSAGE" value="add &#10;laboratory work" />
   </component>
 </project>
