@@ -12,8 +12,6 @@ nums = [-4, -1, 0, 3, 10]
 print(sortedSquares(nums))
 
 def isAnagram( s, t):
-    if len(s) != len(t):
-        return False
     return sorted(s) == sorted(t)
 
 s1 = 'anagram'
