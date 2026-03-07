@@ -1,3 +1,4 @@
+#1 задание
 def sortedSquares(nums):
     left, right = 0, len(nums)-1
     while left < right:
@@ -11,6 +12,7 @@ nums = [-4, -1, 0, 3, 10]
 
 print(sortedSquares(nums))
 
+#2 задание
 def isAnagram( s, t):
     return sorted(s) == sorted(t)
 
