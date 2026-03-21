@@ -25,12 +25,12 @@ class Solution(object):
 #2
 class Solution(object):
     def validateStackSequences(self, pushed, popped):
-        stack_push = []
+        stack = []
         j =0
         for a in pushed:
-            stack_push.append(a)
-            while stack_push and stack_push[-1] == popped[j]:
-                stack_push.pop()
+            stack.append(a)
+            while stack and stack[-1] == popped[j]:
+                stack.pop()
                 j+=1
-        return len(stack_push)==0
+        return len(stack)==0
 
