@@ -1,4 +1,5 @@
 #1
+#1
 class Solution(object):
     def asteroidCollision(self, asteroids):
         stack = []
@@ -9,13 +10,16 @@ class Solution(object):
                     continue
                 elif stack[-1] == abs(a):
                     stack.pop()
-                    a = None
+                    a = 0
                 else:
-                    a = None
+                    a = 0
                 break
-            if a is not None:
+            if a != 0:
                 stack.append(a)
         return stack
+
+
+
 
 
 #2
